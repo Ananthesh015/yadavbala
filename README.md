@@ -12,8 +12,8 @@
 
 ### Connect with me: 
 <p align = "center">
-  <a href="https://www.linkedin.com/in/bala-yadavkumar-94254b9b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Bala%20Yadav%20Kumar-blue?                       style=flat&logo=linkedin"></a>
-  <a href="https://github.com/yadavbala"><img alt="Github" src="https://img.shields.io/badge/GitHub-MBalaYadavKumar?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/bala-yadavkumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Bala%20Yadav%20Kumar-blue?                       style=flat&logo=linkedin"></a>
+  <a href="https://github.com/yadavbala"><img alt="Github" src="https://img.shields.io/badge/GitHub-MBalaYadavKumar-blue?style=flat&logo=github"></a>
   <a href="mailto:yadav1995kumar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yadav1995kumar%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
