@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning more about **Full Stack Applications**
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🥅 &nbsp; 2020 Goals: Contribute more to Open Source projects
-- ⚡ &nbsp; Fun fact: I love listening melody music
+- ⚡ &nbsp; Fun fact: I love listening to melody music
 
 ### Connect with me: 
   <a href="https://www.linkedin.com/in/bala-yadavkumar-94254b9b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Bala%20Yadav%20Kumar-blue?style=flat&logo=linkedin"></a>
@@ -29,6 +29,7 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <br/>
+
 
 ### My Github Stats
 <p>
