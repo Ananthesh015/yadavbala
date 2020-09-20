@@ -7,8 +7,15 @@
 - 🔭 &nbsp; Currently working on **MERN Stack (MongoDB, Express.js, React, Node.js)** .
 - 🌱 &nbsp; Learning more about **Full Stack Applications**
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love listening melody music
+- 🥅 &nbsp; 2020 Goals: Contribute more to Open Source projects
+- ⚡ &nbsp; Fun fact: I love listening melody music
+
+### Connect with me: 
+<p align = "center">
+  <a href="https://www.linkedin.com/in/bala-yadavkumar-94254b9b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Bala%20Yadav%20Kumar-blue?                       style=flat&logo=linkedin"></a>
+  <a href="https://github.com/yadavbala"><img alt="Github" src="https://img.shields.io/badge/GitHub-M%20Bala%20Yadav%20Kumar?style=flat&logo=github"></a>
+  <a href="mailto:yadav1995kumar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yadav1995kumar%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 <!--
 **yadavbala/yadavbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
